@@ -1,5 +1,5 @@
-# ejs-blogChallenge
- Learning EJS, using it to create a blog website.
+# Lost Journal
+ Learning EJS, create a dynamic blog website.
 
 ## Tools
 - Node.js
